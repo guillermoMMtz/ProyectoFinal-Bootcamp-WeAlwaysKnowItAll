@@ -5,10 +5,10 @@ Equipo: We always know IT all
 
 Miembros:
 - Jazmin Bartolo
-- Angel Alberyto Ramirez
-- Alberto Victoria
-- Carlos
-- Guillermo Meneses
+- Angel Alberto Ramirez Briseño
+- Alberto Jose Padron Victoria
+- Carlos Eduardo Morales Lopez
+- Guillermo Noel Meneses Martínez
 
 Liga:
 
