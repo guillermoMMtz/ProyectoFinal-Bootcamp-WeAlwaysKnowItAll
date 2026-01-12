@@ -18,7 +18,7 @@ Tarea 1:
 
 Tarea 2:
 
-- Presentación (Cliente - Ulises (A partir de la slide 8)): https://docs.google.com/presentation/d/1bEPjcgWDfpV15iJVyCFhAyKk2ZJfT31twH0woXtXOhE/edit?slide=id.p#slide=id.p
+- Presentación (Cliente - Ulises (A partir de la slide 8)): https://docs.google.com/presentation/d/1Gt73nXZTLdHAVkxohjiVQwgUtN3djLjR6_OiXdCkL_4/edit?usp=sharing
 - Documentación: https://docs.google.com/document/d/1LwJcliU1girFQBnL94nRL2dkW-M79QmCKCXvZgz496U/edit?tab=t.0
 - Reflexión: https://docs.google.com/document/d/1MUQcTn2oVvrNTJOA2fliRhIILBhf6e3BdjShr4rneGk/edit?usp=sharing
 
