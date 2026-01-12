@@ -10,7 +10,14 @@ Miembros:
 - Carlos Eduardo Morales Lopez
 - Guillermo Noel Meneses Martínez
 
-Liga:
+Ligas:
 
-Presentación: https://docs.google.com/presentation/d/1Gt73nXZTLdHAVkxohjiVQwgUtN3djLjR6_OiXdCkL_4/edit?usp=sharing
+Tarea 1:
+
+- Presentación: https://docs.google.com/presentation/d/1Gt73nXZTLdHAVkxohjiVQwgUtN3djLjR6_OiXdCkL_4/edit?usp=sharing
+
+Tarea 2:
+
+- Presentación (Cliente - Ulises): https://docs.google.com/presentation/d/1bEPjcgWDfpV15iJVyCFhAyKk2ZJfT31twH0woXtXOhE/edit?slide=id.p#slide=id.p
+- Documentación: https://docs.google.com/document/d/1LwJcliU1girFQBnL94nRL2dkW-M79QmCKCXvZgz496U/edit?tab=t.0
 
