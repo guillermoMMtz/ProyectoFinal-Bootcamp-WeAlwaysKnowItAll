@@ -23,5 +23,6 @@ Tarea 2:
 - Reflexión: https://docs.google.com/document/d/1MUQcTn2oVvrNTJOA2fliRhIILBhf6e3BdjShr4rneGk/edit?usp=sharing
 
 Tarea 3:
-- 
+- Presenyación a partir de la slide 12 (https://docs.google.com/presentation/d/1Gt73nXZTLdHAVkxohjiVQwgUtN3djLjR6_OiXdCkL_4/edit?usp=sharing)
+  
 
