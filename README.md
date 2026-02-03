@@ -24,5 +24,9 @@ Tarea 2:
 
 Tarea 3:
 - Presenyación a partir de la slide 12 (https://docs.google.com/presentation/d/1Gt73nXZTLdHAVkxohjiVQwgUtN3djLjR6_OiXdCkL_4/edit?usp=sharing)
+
+Tarea 4:
+- Soporte a infraestructura y conectividad (hardware/red) apartir del slide 23
+(https://docs.google.com/presentation/d/1Gt73nXZTLdHAVkxohjiVQwgUtN3djLjR6_OiXdCkL_4/edit?usp=sharing)
   
 
