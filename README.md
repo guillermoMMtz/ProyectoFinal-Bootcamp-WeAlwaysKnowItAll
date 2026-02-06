@@ -14,21 +14,31 @@ Ligas:
 
 Tarea 1:
 
-- Presentación: https://docs.google.com/presentation/d/1Gt73nXZTLdHAVkxohjiVQwgUtN3djLjR6_OiXdCkL_4/edit?usp=sharing
+- Presentación:
+  https://docs.google.com/presentation/d/1Gt73nXZTLdHAVkxohjiVQwgUtN3djLjR6_OiXdCkL_4/edit?usp=sharing
 
 Tarea 2:
 
-- Presentación (Cliente - Ulises (A partir de la slide 4)): https://docs.google.com/presentation/d/1Gt73nXZTLdHAVkxohjiVQwgUtN3djLjR6_OiXdCkL_4/edit?usp=sharing
-- Documentación: https://docs.google.com/document/d/1LwJcliU1girFQBnL94nRL2dkW-M79QmCKCXvZgz496U/edit?usp=sharing
-- Reflexión: https://docs.google.com/document/d/1MUQcTn2oVvrNTJOA2fliRhIILBhf6e3BdjShr4rneGk/edit?usp=sharing
+- Presentación (Cliente - Ulises (A partir de la slide 4))
+  https://docs.google.com/presentation/d/1Gt73nXZTLdHAVkxohjiVQwgUtN3djLjR6_OiXdCkL_4/edit?usp=sharing
+- Documentación
+  https://docs.google.com/document/d/1LwJcliU1girFQBnL94nRL2dkW-M79QmCKCXvZgz496U/edit?usp=sharing
+- Reflexión:
+  https://docs.google.com/document/d/1MUQcTn2oVvrNTJOA2fliRhIILBhf6e3BdjShr4rneGk/edit?usp=sharing
 
 Tarea 3:
-- Presenyación a partir de la slide 6 (https://docs.google.com/presentation/d/1Gt73nXZTLdHAVkxohjiVQwgUtN3djLjR6_OiXdCkL_4/edit?usp=sharing)
+- Presenyación a partir de la slide 6
+  https://docs.google.com/presentation/d/1Gt73nXZTLdHAVkxohjiVQwgUtN3djLjR6_OiXdCkL_4/edit?usp=sharing
 
 Tarea 4:
-- Soporte a infraestructura y conectividad (hardware/red) apartir del slide 9
+- Soporte a infraestructura y conectividad (hardware/red) a partir del slide 9
 (https://docs.google.com/presentation/d/1Gt73nXZTLdHAVkxohjiVQwgUtN3djLjR6_OiXdCkL_4/edit?usp=sharing)
 
 Tarea 5 y 6:
  - Gestión de Incidentes: Priorización y SLA (Slide 14)/ Seguridad básica y respuesta a incidentes (Slide 16)
- -https://docs.google.com/presentation/d/1Gt73nXZTLdHAVkxohjiVQwgUtN3djLjR6_OiXdCkL_4/edit?usp=sharing
+   https://docs.google.com/presentation/d/1Gt73nXZTLdHAVkxohjiVQwgUtN3djLjR6_OiXdCkL_4/edit?usp=sharing
+
+ Tarea 7:
+ - Documentación y Base de Conocimiento (KB) a partir de la slide 18
+   https://docs.google.com/presentation/d/1Gt73nXZTLdHAVkxohjiVQwgUtN3djLjR6_OiXdCkL_4/edit?usp=sharing
+
