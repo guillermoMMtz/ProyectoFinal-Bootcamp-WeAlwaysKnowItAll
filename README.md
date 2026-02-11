@@ -42,3 +42,7 @@ Tarea 5 y 6:
  - Documentación y Base de Conocimiento (KB) a partir de la slide 18
    https://docs.google.com/presentation/d/1Gt73nXZTLdHAVkxohjiVQwgUtN3djLjR6_OiXdCkL_4/edit?usp=sharing
 
+
+Presentación final
+- Logitud ajustada, roleplay preparado, vacantes objetivo incluidas.
+https://docs.google.com/presentation/d/1Gt73nXZTLdHAVkxohjiVQwgUtN3djLjR6_OiXdCkL_4/edit?usp=sharing
